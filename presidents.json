@@ -1,0 +1,856 @@
+[{
+    "id": 1049,
+    "presidentNumber": 1,
+    "presidentName": "George Washington",
+    "yearsServed": "1789-1797",
+    "partyAffiliation": "None",
+    "spouse": "Martha Washington",
+    "vicePresidents": [{
+        "name": "John Adams",
+        "spouse": "Abigail Smith",
+        "yearsServed": "1789-1797",
+        "partyAffiliation": "Democratic-Republican",
+        "vpId": 1009,
+        "presidentId": 1049,
+        "url": "http://localhost:51330/api/vicepresidents/1009",
+        "presidentUrl": "http://localhost:51330/api/presidents/1"
+    }],
+    "url": "http://localhost:51330/api/presidents/1"
+}, {
+    "id": 1050,
+    "presidentNumber": 2,
+    "presidentName": "John Adams",
+    "yearsServed": "1797-1801",
+    "partyAffiliation": "Democratic-Republican",
+    "spouse": "Abigail Smith",
+    "vicePresidents": [{
+        "name": "Thomas Jefferson",
+        "spouse": "Martha Wayles",
+        "yearsServed": "1797-1801",
+        "partyAffiliation": "Democratic-Republican",
+        "vpId": 1010,
+        "presidentId": 1050,
+        "url": "http://localhost:51330/api/vicepresidents/1010",
+        "presidentUrl": "http://localhost:51330/api/presidents/2"
+    }],
+    "url": "http://localhost:51330/api/presidents/2"
+}, {
+    "id": 1052,
+    "presidentNumber": 3,
+    "presidentName": "Thoman Jefferson",
+    "yearsServed": "1801-1809",
+    "partyAffiliation": "Democratic-Republican",
+    "spouse": "Martha Wayles",
+    "vicePresidents": [{
+        "name": "Aaron Burr",
+        "spouse": "Theodosia Bartow Prevost",
+        "yearsServed": "1801-1805",
+        "partyAffiliation": "Democratic-Republican",
+        "vpId": 1013,
+        "presidentId": 1052,
+        "url": "http://localhost:51330/api/vicepresidents/1013",
+        "presidentUrl": "http://localhost:51330/api/presidents/3"
+    }, {
+        "name": "George Clinton",
+        "spouse": "Sarah Tappen",
+        "yearsServed": "1805-1812",
+        "partyAffiliation": "Democratic-Republican",
+        "vpId": 1014,
+        "presidentId": 1052,
+        "url": "http://localhost:51330/api/vicepresidents/1014",
+        "presidentUrl": "http://localhost:51330/api/presidents/3"
+    }],
+    "url": "http://localhost:51330/api/presidents/3"
+}, {
+    "id": 1051,
+    "presidentNumber": 4,
+    "presidentName": "James Madison",
+    "yearsServed": "1809-1817",
+    "partyAffiliation": "Democratic-Republican",
+    "spouse": "Dolley Payne Todd",
+    "vicePresidents": [{
+        "name": "George Clinton",
+        "spouse": "Sarah Tappen",
+        "yearsServed": "1805-1812",
+        "partyAffiliation": "Democratic-Republican",
+        "vpId": 1011,
+        "presidentId": 1051,
+        "url": "http://localhost:51330/api/vicepresidents/1011",
+        "presidentUrl": "http://localhost:51330/api/presidents/4"
+    }, {
+        "name": "Elbridge Gerry",
+        "spouse": "Ann Thompson",
+        "yearsServed": "1813-1814",
+        "partyAffiliation": "Democratic-Republican",
+        "vpId": 1012,
+        "presidentId": 1051,
+        "url": "http://localhost:51330/api/vicepresidents/1012",
+        "presidentUrl": "http://localhost:51330/api/presidents/4"
+    }],
+    "url": "http://localhost:51330/api/presidents/4"
+}, {
+    "id": 1053,
+    "presidentNumber": 5,
+    "presidentName": "James Monroe",
+    "yearsServed": "1817-1825",
+    "partyAffiliation": "Democratic-Republican",
+    "spouse": "Elizabeth Kortwright",
+    "vicePresidents": [{
+        "name": "Daniel D. Tompkins",
+        "spouse": "Hannah Minthorne",
+        "yearsServed": "1817-1825",
+        "partyAffiliation": "Democratic-Republican",
+        "vpId": 1015,
+        "presidentId": 1053,
+        "url": "http://localhost:51330/api/vicepresidents/1015",
+        "presidentUrl": "http://localhost:51330/api/presidents/5"
+    }],
+    "url": "http://localhost:51330/api/presidents/5"
+}, {
+    "id": 1054,
+    "presidentNumber": 6,
+    "presidentName": "John Q Adams",
+    "yearsServed": "1825-1829",
+    "partyAffiliation": "Democratic-Republican",
+    "spouse": "Louisa Johnson",
+    "vicePresidents": [{
+        "name": "John C. Calhoun",
+        "spouse": "Floride Bonneau",
+        "yearsServed": "1825-1832",
+        "partyAffiliation": "Democratic-Republican",
+        "vpId": 1016,
+        "presidentId": 1054,
+        "url": "http://localhost:51330/api/vicepresidents/1016",
+        "presidentUrl": "http://localhost:51330/api/presidents/6"
+    }],
+    "url": "http://localhost:51330/api/presidents/6"
+}, {
+    "id": 2047,
+    "presidentNumber": 7,
+    "presidentName": "Andrew Jackson",
+    "yearsServed": "1829-1837",
+    "partyAffiliation": "Democrat",
+    "spouse": "Rachel Donelson",
+    "vicePresidents": [{
+        "name": "John C. Calhoun",
+        "spouse": "Floride Bonneau",
+        "yearsServed": "1829-1832",
+        "partyAffiliation": "Democratic-Republican",
+        "vpId": 2007,
+        "presidentId": 2047,
+        "url": "http://localhost:51330/api/vicepresidents/2007",
+        "presidentUrl": "http://localhost:51330/api/presidents/7"
+    }, {
+        "name": "Martin Van Buren",
+        "spouse": "Hannah Hoes",
+        "yearsServed": "1833-1837",
+        "partyAffiliation": "Democratic-Republican",
+        "vpId": 2008,
+        "presidentId": 2047,
+        "url": "http://localhost:51330/api/vicepresidents/2008",
+        "presidentUrl": "http://localhost:51330/api/presidents/7"
+    }],
+    "url": "http://localhost:51330/api/presidents/7"
+}, {
+    "id": 2048,
+    "presidentNumber": 8,
+    "presidentName": "Martin Van Buren",
+    "yearsServed": "1837-1841",
+    "partyAffiliation": "Democrat",
+    "spouse": "Hannah Hoes",
+    "vicePresidents": [{
+        "name": "Richard M Johnson",
+        "spouse": "Julia Ann Chinn",
+        "yearsServed": "1837-1841",
+        "partyAffiliation": "Democratic-Republican",
+        "vpId": 2009,
+        "presidentId": 2048,
+        "url": "http://localhost:51330/api/vicepresidents/2009",
+        "presidentUrl": "http://localhost:51330/api/presidents/8"
+    }],
+    "url": "http://localhost:51330/api/presidents/8"
+}, {
+    "id": 2049,
+    "presidentNumber": 9,
+    "presidentName": "William H Harrison",
+    "yearsServed": "1841-1841",
+    "partyAffiliation": "Whig",
+    "spouse": "Anna Symmes",
+    "vicePresidents": [{
+        "name": "John Tyler",
+        "spouse": "Letitia Christian",
+        "yearsServed": "1841-1841",
+        "partyAffiliation": "Democratic-Republican",
+        "vpId": 2010,
+        "presidentId": 2049,
+        "url": "http://localhost:51330/api/vicepresidents/2010",
+        "presidentUrl": "http://localhost:51330/api/presidents/9"
+    }],
+    "url": "http://localhost:51330/api/presidents/9"
+}, {
+    "id": 2050,
+    "presidentNumber": 10,
+    "presidentName": "John Tyler",
+    "yearsServed": "1841-1845",
+    "partyAffiliation": "Whig",
+    "spouse": "Letitia Christian",
+    "vicePresidents": [],
+    "url": "http://localhost:51330/api/presidents/10"
+}, {
+    "id": 2051,
+    "presidentNumber": 11,
+    "presidentName": "James K Polk",
+    "yearsServed": "1845-1849",
+    "partyAffiliation": "Democrat",
+    "spouse": "Sarah Childress",
+    "vicePresidents": [{
+        "name": "George M Dallas",
+        "spouse": "Sophia Chew",
+        "yearsServed": "1845-1849",
+        "partyAffiliation": "Democrat",
+        "vpId": 2011,
+        "presidentId": 2051,
+        "url": "http://localhost:51330/api/vicepresidents/2011",
+        "presidentUrl": "http://localhost:51330/api/presidents/11"
+    }],
+    "url": "http://localhost:51330/api/presidents/11"
+}, {
+    "id": 2052,
+    "presidentNumber": 12,
+    "presidentName": "Zachary Taylor",
+    "yearsServed": "1849-1850",
+    "partyAffiliation": "Whig",
+    "spouse": "Margaret Smith",
+    "vicePresidents": [{
+        "name": "Millard Fillmore",
+        "spouse": "Abigail Powers",
+        "yearsServed": "1849-1850",
+        "partyAffiliation": "Whig",
+        "vpId": 2012,
+        "presidentId": 2052,
+        "url": "http://localhost:51330/api/vicepresidents/2012",
+        "presidentUrl": "http://localhost:51330/api/presidents/12"
+    }],
+    "url": "http://localhost:51330/api/presidents/12"
+}, {
+    "id": 2053,
+    "presidentNumber": 13,
+    "presidentName": "Milliard Fillmore",
+    "yearsServed": "1850-1853",
+    "partyAffiliation": "Whig",
+    "spouse": "Abigail Powers",
+    "vicePresidents": [],
+    "url": "http://localhost:51330/api/presidents/13"
+}, {
+    "id": 2054,
+    "presidentNumber": 14,
+    "presidentName": "Franklin Pierce",
+    "yearsServed": "1853-1857",
+    "partyAffiliation": "Democrat",
+    "spouse": "Jane Appleton",
+    "vicePresidents": [{
+        "name": "William R King",
+        "spouse": "None",
+        "yearsServed": "1853-1853",
+        "partyAffiliation": "Democrat",
+        "vpId": 2013,
+        "presidentId": 2054,
+        "url": "http://localhost:51330/api/vicepresidents/2013",
+        "presidentUrl": "http://localhost:51330/api/presidents/14"
+    }],
+    "url": "http://localhost:51330/api/presidents/14"
+}, {
+    "id": 2055,
+    "presidentNumber": 15,
+    "presidentName": "James Buchanan Jr.",
+    "yearsServed": "1857-1861",
+    "partyAffiliation": "Democrat",
+    "spouse": "None",
+    "vicePresidents": [{
+        "name": "John C Breckinridge",
+        "spouse": "Mary Burch",
+        "yearsServed": "1857-1861",
+        "partyAffiliation": "Democrat",
+        "vpId": 2014,
+        "presidentId": 2055,
+        "url": "http://localhost:51330/api/vicepresidents/2014",
+        "presidentUrl": "http://localhost:51330/api/presidents/15"
+    }],
+    "url": "http://localhost:51330/api/presidents/15"
+}, {
+    "id": 2056,
+    "presidentNumber": 16,
+    "presidentName": "Abraham Lincoln",
+    "yearsServed": "1861-1865",
+    "partyAffiliation": "Republican",
+    "spouse": "Mary Todd",
+    "vicePresidents": [{
+        "name": "Hannibal Hamlin",
+        "spouse": "Sarah Jane Emery",
+        "yearsServed": "1861-1865",
+        "partyAffiliation": "Republican",
+        "vpId": 2015,
+        "presidentId": 2056,
+        "url": "http://localhost:51330/api/vicepresidents/2015",
+        "presidentUrl": "http://localhost:51330/api/presidents/16"
+    }, {
+        "name": "Andrew Johnson",
+        "spouse": "Eliza McCardle",
+        "yearsServed": "1865",
+        "partyAffiliation": "Democrat",
+        "vpId": 2016,
+        "presidentId": 2056,
+        "url": "http://localhost:51330/api/vicepresidents/2016",
+        "presidentUrl": "http://localhost:51330/api/presidents/16"
+    }],
+    "url": "http://localhost:51330/api/presidents/16"
+}, {
+    "id": 2057,
+    "presidentNumber": 17,
+    "presidentName": "Andrew Johnson",
+    "yearsServed": "1865-1869",
+    "partyAffiliation": "Democrat",
+    "spouse": "Eliza McCardle",
+    "vicePresidents": [],
+    "url": "http://localhost:51330/api/presidents/17"
+}, {
+    "id": 2058,
+    "presidentNumber": 18,
+    "presidentName": "Ulysses S. Grant",
+    "yearsServed": "1869-1877",
+    "partyAffiliation": "Republican",
+    "spouse": "Julia Dent",
+    "vicePresidents": [{
+        "name": "Schuyler Colfax",
+        "spouse": "Evelyn Clark Colfax",
+        "yearsServed": "1869-1873",
+        "partyAffiliation": "Republican",
+        "vpId": 2017,
+        "presidentId": 2058,
+        "url": "http://localhost:51330/api/vicepresidents/2017",
+        "presidentUrl": "http://localhost:51330/api/presidents/18"
+    }, {
+        "name": "Henry Wilson",
+        "spouse": "Harriet Malvina Howe",
+        "yearsServed": "1873-1875",
+        "partyAffiliation": "Republican",
+        "vpId": 2018,
+        "presidentId": 2058,
+        "url": "http://localhost:51330/api/vicepresidents/2018",
+        "presidentUrl": "http://localhost:51330/api/presidents/18"
+    }],
+    "url": "http://localhost:51330/api/presidents/18"
+}, {
+    "id": 2059,
+    "presidentNumber": 19,
+    "presidentName": "Rutherford B. Hayes",
+    "yearsServed": "1877-1881",
+    "partyAffiliation": "Republican",
+    "spouse": "Lucy Webb",
+    "vicePresidents": [{
+        "name": "William A. Wheeler",
+        "spouse": "Mary King Wheeler",
+        "yearsServed": "1877-1881",
+        "partyAffiliation": "Republican",
+        "vpId": 2019,
+        "presidentId": 2059,
+        "url": "http://localhost:51330/api/vicepresidents/2019",
+        "presidentUrl": "http://localhost:51330/api/presidents/19"
+    }],
+    "url": "http://localhost:51330/api/presidents/19"
+}, {
+    "id": 2060,
+    "presidentNumber": 20,
+    "presidentName": "James A. Garfield",
+    "yearsServed": "1881-1881",
+    "partyAffiliation": "Republican",
+    "spouse": "Lucretia Rudolph",
+    "vicePresidents": [{
+        "name": "Chester A. Arthur",
+        "spouse": "Ellen Herndon",
+        "yearsServed": "1881-1881",
+        "partyAffiliation": "Republican",
+        "vpId": 2020,
+        "presidentId": 2060,
+        "url": "http://localhost:51330/api/vicepresidents/2020",
+        "presidentUrl": "http://localhost:51330/api/presidents/20"
+    }],
+    "url": "http://localhost:51330/api/presidents/20"
+}, {
+    "id": 2061,
+    "presidentNumber": 21,
+    "presidentName": "Chester A. Arthur",
+    "yearsServed": "1881-1885",
+    "partyAffiliation": "Republican",
+    "spouse": "Ellen Herndon",
+    "vicePresidents": [],
+    "url": "http://localhost:51330/api/presidents/21"
+}, {
+    "id": 2062,
+    "presidentNumber": 22,
+    "presidentName": "Grover Cleveland",
+    "yearsServed": "1893-1897",
+    "partyAffiliation": "Democrat",
+    "spouse": "Frances Folsom",
+    "vicePresidents": [{
+        "name": "Thomas A. Hendricks",
+        "spouse": "Eliza Morgan",
+        "yearsServed": "1885-1885",
+        "partyAffiliation": "Democrat",
+        "vpId": 2021,
+        "presidentId": 2062,
+        "url": "http://localhost:51330/api/vicepresidents/2021",
+        "presidentUrl": "http://localhost:51330/api/presidents/22"
+    }],
+    "url": "http://localhost:51330/api/presidents/22"
+}, {
+    "id": 2063,
+    "presidentNumber": 23,
+    "presidentName": "Benjamin Harrison",
+    "yearsServed": "1889-1893",
+    "partyAffiliation": "Republican",
+    "spouse": "Caroline Scott",
+    "vicePresidents": [{
+        "name": "Levi P. Morton",
+        "spouse": "Lucy Young Kimball",
+        "yearsServed": "1889-1893",
+        "partyAffiliation": "Republican",
+        "vpId": 2022,
+        "presidentId": 2063,
+        "url": "http://localhost:51330/api/vicepresidents/2022",
+        "presidentUrl": "http://localhost:51330/api/presidents/23"
+    }],
+    "url": "http://localhost:51330/api/presidents/23"
+}, {
+    "id": 2064,
+    "presidentNumber": 24,
+    "presidentName": "Grover Cleveland",
+    "yearsServed": "1893-1897",
+    "partyAffiliation": "Democrat",
+    "spouse": "Frances Folsom",
+    "vicePresidents": [{
+        "name": "Adlai Stevenson",
+        "spouse": "Letitia Green",
+        "yearsServed": "1893-1897",
+        "partyAffiliation": "Democrat",
+        "vpId": 2023,
+        "presidentId": 2064,
+        "url": "http://localhost:51330/api/vicepresidents/2023",
+        "presidentUrl": "http://localhost:51330/api/presidents/24"
+    }],
+    "url": "http://localhost:51330/api/presidents/24"
+}, {
+    "id": 2065,
+    "presidentNumber": 25,
+    "presidentName": "William McKinley",
+    "yearsServed": "1897-1901",
+    "partyAffiliation": "Republican",
+    "spouse": "Ida Saxton",
+    "vicePresidents": [{
+        "name": "Garret Hobart",
+        "spouse": "Jennie Tuttle Hobart",
+        "yearsServed": "1897-1899",
+        "partyAffiliation": "Republican",
+        "vpId": 2024,
+        "presidentId": 2065,
+        "url": "http://localhost:51330/api/vicepresidents/2024",
+        "presidentUrl": "http://localhost:51330/api/presidents/25"
+    }, {
+        "name": "Theodore Roosevelt",
+        "spouse": "Alice Lee",
+        "yearsServed": "1901-1901",
+        "partyAffiliation": "Republican",
+        "vpId": 2025,
+        "presidentId": 2065,
+        "url": "http://localhost:51330/api/vicepresidents/2025",
+        "presidentUrl": "http://localhost:51330/api/presidents/25"
+    }],
+    "url": "http://localhost:51330/api/presidents/25"
+}, {
+    "id": 2066,
+    "presidentNumber": 26,
+    "presidentName": "Theodore Roosevelt",
+    "yearsServed": "1901-1909",
+    "partyAffiliation": "Republican",
+    "spouse": "Alice Lee",
+    "vicePresidents": [{
+        "name": "Charles W. Fairbanks",
+        "spouse": "Cornelia Cole Fairbanks",
+        "yearsServed": "1905-1909",
+        "partyAffiliation": "Republican",
+        "vpId": 2026,
+        "presidentId": 2066,
+        "url": "http://localhost:51330/api/vicepresidents/2026",
+        "presidentUrl": "http://localhost:51330/api/presidents/26"
+    }],
+    "url": "http://localhost:51330/api/presidents/26"
+}, {
+    "id": 2067,
+    "presidentNumber": 27,
+    "presidentName": "William Howard Taft",
+    "yearsServed": "1909-1913",
+    "partyAffiliation": "Republican",
+    "spouse": "Helen Herron",
+    "vicePresidents": [{
+        "name": "James S. Sherman",
+        "spouse": "Carrie Babcock",
+        "yearsServed": "1909-1912",
+        "partyAffiliation": "Republican",
+        "vpId": 2027,
+        "presidentId": 2067,
+        "url": "http://localhost:51330/api/vicepresidents/2027",
+        "presidentUrl": "http://localhost:51330/api/presidents/27"
+    }],
+    "url": "http://localhost:51330/api/presidents/27"
+}, {
+    "id": 2068,
+    "presidentNumber": 28,
+    "presidentName": "Woodrow Wilson",
+    "yearsServed": "1913-1921",
+    "partyAffiliation": "Democrat",
+    "spouse": "Ellen Axson",
+    "vicePresidents": [{
+        "name": "Thomas R. Marchall",
+        "spouse": "Lois Kimsey",
+        "yearsServed": "1913-1921",
+        "partyAffiliation": "Democrat",
+        "vpId": 2028,
+        "presidentId": 2068,
+        "url": "http://localhost:51330/api/vicepresidents/2028",
+        "presidentUrl": "http://localhost:51330/api/presidents/28"
+    }],
+    "url": "http://localhost:51330/api/presidents/28"
+}, {
+    "id": 2069,
+    "presidentNumber": 29,
+    "presidentName": "Warren G. Harding",
+    "yearsServed": "1921-1923",
+    "partyAffiliation": "Republican",
+    "spouse": "Florence Kling",
+    "vicePresidents": [{
+        "name": "Calvin Coolidge",
+        "spouse": "Grace Goodhue",
+        "yearsServed": "1921-1923",
+        "partyAffiliation": "Republican",
+        "vpId": 2029,
+        "presidentId": 2069,
+        "url": "http://localhost:51330/api/vicepresidents/2029",
+        "presidentUrl": "http://localhost:51330/api/presidents/29"
+    }],
+    "url": "http://localhost:51330/api/presidents/29"
+}, {
+    "id": 2070,
+    "presidentNumber": 30,
+    "presidentName": "Calvin Coolidge",
+    "yearsServed": "1923-1929",
+    "partyAffiliation": "Republican",
+    "spouse": "Grace Goodhue",
+    "vicePresidents": [{
+        "name": "Charles G. Dawes",
+        "spouse": "Caro Blymyer",
+        "yearsServed": "1925-1929",
+        "partyAffiliation": "Republican",
+        "vpId": 2030,
+        "presidentId": 2070,
+        "url": "http://localhost:51330/api/vicepresidents/2030",
+        "presidentUrl": "http://localhost:51330/api/presidents/30"
+    }],
+    "url": "http://localhost:51330/api/presidents/30"
+}, {
+    "id": 2071,
+    "presidentNumber": 31,
+    "presidentName": "Herbert Hoover",
+    "yearsServed": "1929-1933",
+    "partyAffiliation": "Republican",
+    "spouse": "Lou Henry",
+    "vicePresidents": [{
+        "name": "Charles Curtis",
+        "spouse": "Annie Baird",
+        "yearsServed": "1929-1933",
+        "partyAffiliation": "Republican",
+        "vpId": 2031,
+        "presidentId": 2071,
+        "url": "http://localhost:51330/api/vicepresidents/2031",
+        "presidentUrl": "http://localhost:51330/api/presidents/31"
+    }],
+    "url": "http://localhost:51330/api/presidents/31"
+}, {
+    "id": 2072,
+    "presidentNumber": 32,
+    "presidentName": "Franklin D. Roosevelt",
+    "yearsServed": "1933-1945",
+    "partyAffiliation": "Democrat",
+    "spouse": "Eleanor Roosevelt",
+    "vicePresidents": [{
+        "name": "John N. Garner",
+        "spouse": "Mariette Rheiner Garner",
+        "yearsServed": "1933-1941",
+        "partyAffiliation": "Democrat",
+        "vpId": 2032,
+        "presidentId": 2072,
+        "url": "http://localhost:51330/api/vicepresidents/2032",
+        "presidentUrl": "http://localhost:51330/api/presidents/32"
+    }, {
+        "name": "Henry A. Wallace",
+        "spouse": "IIo Browne",
+        "yearsServed": "1941-1945",
+        "partyAffiliation": "Democrat",
+        "vpId": 2033,
+        "presidentId": 2072,
+        "url": "http://localhost:51330/api/vicepresidents/2033",
+        "presidentUrl": "http://localhost:51330/api/presidents/32"
+    }, {
+        "name": "Harry S. Truman",
+        "spouse": "Bess Wallace",
+        "yearsServed": "1945",
+        "partyAffiliation": "Democrat",
+        "vpId": 2034,
+        "presidentId": 2072,
+        "url": "http://localhost:51330/api/vicepresidents/2034",
+        "presidentUrl": "http://localhost:51330/api/presidents/32"
+    }],
+    "url": "http://localhost:51330/api/presidents/32"
+}, {
+    "id": 2073,
+    "presidentNumber": 33,
+    "presidentName": "Harry S. Truman",
+    "yearsServed": "1945-1953",
+    "partyAffiliation": "Democrat",
+    "spouse": "Bess Wallace",
+    "vicePresidents": [{
+        "name": "Alben W. Barkley",
+        "spouse": "Dorothy Brower",
+        "yearsServed": "1949-1953",
+        "partyAffiliation": "Democrat",
+        "vpId": 2035,
+        "presidentId": 2073,
+        "url": "http://localhost:51330/api/vicepresidents/2035",
+        "presidentUrl": "http://localhost:51330/api/presidents/33"
+    }],
+    "url": "http://localhost:51330/api/presidents/33"
+}, {
+    "id": 1048,
+    "presidentNumber": 34,
+    "presidentName": "Dwight D. Eisenhower",
+    "yearsServed": "1953-1961",
+    "partyAffiliation": "Republican",
+    "spouse": "Mamie Doud",
+    "vicePresidents": [{
+        "name": "Richard Nixon",
+        "spouse": "Pat Ryan",
+        "yearsServed": "1953-1961",
+        "partyAffiliation": "Republican",
+        "vpId": 1008,
+        "presidentId": 1048,
+        "url": "http://localhost:51330/api/vicepresidents/1008",
+        "presidentUrl": "http://localhost:51330/api/presidents/34"
+    }],
+    "url": "http://localhost:51330/api/presidents/34"
+}, {
+    "id": 1047,
+    "presidentNumber": 35,
+    "presidentName": "John F Kennedy",
+    "yearsServed": "1961-1963",
+    "partyAffiliation": "Democrat",
+    "spouse": "Jacqueline Lee Bouvier",
+    "vicePresidents": [{
+        "name": "Lyndon B. Johnson",
+        "spouse": "Lady Bird",
+        "yearsServed": "1961-1963",
+        "partyAffiliation": "Democrat",
+        "vpId": 1007,
+        "presidentId": 1047,
+        "url": "http://localhost:51330/api/vicepresidents/1007",
+        "presidentUrl": "http://localhost:51330/api/presidents/35"
+    }],
+    "url": "http://localhost:51330/api/presidents/35"
+}, {
+    "id": 1045,
+    "presidentNumber": 36,
+    "presidentName": "Lyndon Baines Johnson",
+    "yearsServed": "1963-1969",
+    "partyAffiliation": "Democrat",
+    "spouse": "Lady Bird test",
+    "vicePresidents": [{
+        "name": "Hubert Humphrey",
+        "spouse": "Muriel Humphrey Brown test",
+        "yearsServed": "1965-1969",
+        "partyAffiliation": "Democrat",
+        "vpId": 1005,
+        "presidentId": 1045,
+        "url": "http://localhost:51330/api/vicepresidents/1005",
+        "presidentUrl": "http://localhost:51330/api/presidents/36"
+    }],
+    "url": "http://localhost:51330/api/presidents/36"
+}, {
+    "id": 1044,
+    "presidentNumber": 37,
+    "presidentName": "Richard Nixon",
+    "yearsServed": "1969-1974",
+    "partyAffiliation": "Republican",
+    "spouse": "Pat Ryan",
+    "vicePresidents": [{
+        "name": "Spiro Agnew",
+        "spouse": "Judy Judefind",
+        "yearsServed": "1969-1973",
+        "partyAffiliation": "Republican",
+        "vpId": 1003,
+        "presidentId": 1044,
+        "url": "http://localhost:51330/api/vicepresidents/1003",
+        "presidentUrl": "http://localhost:51330/api/presidents/37"
+    }, {
+        "name": "Gerald Ford",
+        "spouse": "Betty Bloomer",
+        "yearsServed": "1973-1974",
+        "partyAffiliation": "Republican",
+        "vpId": 1004,
+        "presidentId": 1044,
+        "url": "http://localhost:51330/api/vicepresidents/1004",
+        "presidentUrl": "http://localhost:51330/api/presidents/37"
+    }],
+    "url": "http://localhost:51330/api/presidents/37"
+}, {
+    "id": 1043,
+    "presidentNumber": 38,
+    "presidentName": "Gerald Ford",
+    "yearsServed": "1974-1977",
+    "partyAffiliation": "Republican",
+    "spouse": "Betty Bloomer",
+    "vicePresidents": [{
+        "name": "Nelson Rockefeller",
+        "spouse": "Margaretta Large Fitler",
+        "yearsServed": "1974-1977",
+        "partyAffiliation": "Republican",
+        "vpId": 1002,
+        "presidentId": 1043,
+        "url": "http://localhost:51330/api/vicepresidents/1002",
+        "presidentUrl": "http://localhost:51330/api/presidents/38"
+    }],
+    "url": "http://localhost:51330/api/presidents/38"
+}, {
+    "id": 50,
+    "presidentNumber": 39,
+    "presidentName": "Jimmy Carter",
+    "yearsServed": "1977-1981",
+    "partyAffiliation": "Democrat",
+    "spouse": "Rosalynn Carter",
+    "vicePresidents": [{
+        "name": "Walter Mondale",
+        "spouse": "Joan Mondale",
+        "yearsServed": "1977-1981",
+        "partyAffiliation": "Democrat",
+        "vpId": 7,
+        "presidentId": 50,
+        "url": "http://localhost:51330/api/vicepresidents/7",
+        "presidentUrl": "http://localhost:51330/api/presidents/39"
+    }],
+    "url": "http://localhost:51330/api/presidents/39"
+}, {
+    "id": 48,
+    "presidentNumber": 40,
+    "presidentName": "Ronald Reagan",
+    "yearsServed": "1981-1989",
+    "partyAffiliation": "Repubican",
+    "spouse": "Nancy Reagan",
+    "vicePresidents": [{
+        "name": "George H W Bush",
+        "spouse": "Barbara Bush",
+        "yearsServed": "1981-1989",
+        "partyAffiliation": "Republican",
+        "vpId": 6,
+        "presidentId": 48,
+        "url": "http://localhost:51330/api/vicepresidents/6",
+        "presidentUrl": "http://localhost:51330/api/presidents/40"
+    }],
+    "url": "http://localhost:51330/api/presidents/40"
+}, {
+    "id": 47,
+    "presidentNumber": 41,
+    "presidentName": "George H W Bush",
+    "yearsServed": "1989-1993",
+    "partyAffiliation": "Repubican",
+    "spouse": "Barbara Bush",
+    "vicePresidents": [{
+        "name": "Dan Quayle",
+        "spouse": "Marilyn Quayle",
+        "yearsServed": "1989-1993",
+        "partyAffiliation": "Republican",
+        "vpId": 5,
+        "presidentId": 47,
+        "url": "http://localhost:51330/api/vicepresidents/5",
+        "presidentUrl": "http://localhost:51330/api/presidents/41"
+    }],
+    "url": "http://localhost:51330/api/presidents/41"
+}, {
+    "id": 46,
+    "presidentNumber": 42,
+    "presidentName": "William Jefferson Clinton",
+    "yearsServed": "1993-2001",
+    "partyAffiliation": "Democrat",
+    "spouse": "Hillary Rodham Clinton",
+    "vicePresidents": [{
+        "name": "Al Gore",
+        "spouse": "Tipper Gore",
+        "yearsServed": "1993-2001",
+        "partyAffiliation": "Democrat",
+        "vpId": 4,
+        "presidentId": 46,
+        "url": "http://localhost:51330/api/vicepresidents/4",
+        "presidentUrl": "http://localhost:51330/api/presidents/42"
+    }],
+    "url": "http://localhost:51330/api/presidents/42"
+}, {
+    "id": 45,
+    "presidentNumber": 43,
+    "presidentName": "George W Bush",
+    "yearsServed": "2001-2009",
+    "partyAffiliation": "Republican",
+    "spouse": "Laura Bush",
+    "vicePresidents": [{
+        "name": "Dick Cheney",
+        "spouse": "Lynne Cheney",
+        "yearsServed": "2001-2009",
+        "partyAffiliation": "Republican",
+        "vpId": 3,
+        "presidentId": 45,
+        "url": "http://localhost:51330/api/vicepresidents/3",
+        "presidentUrl": "http://localhost:51330/api/presidents/43"
+    }],
+    "url": "http://localhost:51330/api/presidents/43"
+}, {
+    "id": 44,
+    "presidentNumber": 44,
+    "presidentName": "Barack Obama",
+    "yearsServed": "2009-2017",
+    "partyAffiliation": "Democrat",
+    "spouse": "Michelle Obama",
+    "vicePresidents": [{
+        "name": "Joe Biden",
+        "spouse": "Jill Biden",
+        "yearsServed": "2009-2017",
+        "partyAffiliation": "Democrat",
+        "vpId": 2,
+        "presidentId": 44,
+        "url": "http://localhost:51330/api/vicepresidents/2",
+        "presidentUrl": "http://localhost:51330/api/presidents/44"
+    }],
+    "url": "http://localhost:51330/api/presidents/44"
+}, {
+    "id": 43,
+    "presidentNumber": 45,
+    "presidentName": "Donald J Trump",
+    "yearsServed": "2017-",
+    "partyAffiliation": "Republican",
+    "spouse": "Milania Trump",
+    "vicePresidents": [{
+        "name": "Mike Pence",
+        "spouse": "Karen Pence",
+        "yearsServed": "2017-",
+        "partyAffiliation": "Republican",
+        "vpId": 1,
+        "presidentId": 43,
+        "url": "http://localhost:51330/api/vicepresidents/1",
+        "presidentUrl": "http://localhost:51330/api/presidents/45"
+    }],
+    "url": "http://localhost:51330/api/presidents/45"
+}]

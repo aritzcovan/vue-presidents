@@ -19,7 +19,7 @@
         <section class="section">
             <div class="columns">
                 <div class="column is-3">
-                    <label for="name">Name: </label>
+                    <label for="name">name: </label>
                     <input type="text" class="input">
 
                     <label for="name">number: </label>
@@ -34,6 +34,10 @@
                 </div>
 
                 <div class="column">
+                    <div class="content">
+                        <label for="filter">filter by name</label>
+                        <input type="text" class="input">
+                    </div>
                     <div class="box" v-for="president in presidents" :key="president.id">
                         <article class="media">
                             <div class="media-left">
